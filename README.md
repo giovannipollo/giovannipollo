@@ -6,8 +6,11 @@
 <h1 align="center">I am Giovanni Pollo 🐔 </h1>
 <h2 align="center">🎓 &nbsp;Embedded System Engineer, Politecnico di Torino</h2>
 
-
-### 👨🏻‍💻 &nbsp;About Me
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">👨🏻‍💻 &nbsp;About Me</h1></summary>
+  </ul>
+</div>
 
 💡 &nbsp;As an open source enthusiast, I thoroughly enjoy exploring new technologies, problem-solving through programming while maintaining a hands-on connection with hardware.
 
@@ -29,6 +32,12 @@
 
 ###  💻 &nbsp;Languages and Tools
 
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">👨🏻‍💻 &nbsp;Languages and Tools</h1></summary>
+  </ul>
+</div>
+
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=A8B9CC)&nbsp;
 ![MAC](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=apple&logoColor=A8B9CC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
@@ -45,6 +54,12 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)&nbsp;
 
 ### 📈 &nbsp;GitHub Stats
+
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">📈 &nbsp;GitHub Stats</h1></summary>
+  </ul>
+</div>
 <p align="center">
 <a href="https://github.com/giop98/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giop98&show_icons=true&theme=nord"/>
