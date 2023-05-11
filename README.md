@@ -41,9 +41,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)&nbsp;
 
-
-
-&nbsp;
 ### 📈 &nbsp;GitHub Stats
 <p align="center">
 <a href="https://github.com/giop98/github-readme-stats">
