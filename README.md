@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Embedded System Engineer graduated at Politecnico di Torino
+
+[Download my Curriculum Vitae](Curriculum Vitae.pdf)
 <!--
 **giop98/giop98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
