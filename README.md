@@ -1,10 +1,20 @@
-
-<div align="center">
-<h2> Hi there 👋  </h2>
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h1 style="display: inline-block;">Hi there 👋</h1></summary>
+  </ul>
 </div>
 
-<h1 align="center">I am Giovanni Pollo 🐔 </h1>
-<h2 align="center">🎓 &nbsp;Embedded System Engineer, Politecnico di Torino</h2>
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h1 style="display: inline-block;">I am Giovanni Pollo 🐔</h1></summary>
+  </ul>
+</div>
+
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h1 style="display: inline-block;">Embedded System Engineer, Politecnico di Torino 🎓</h1></summary>
+  </ul>
+</div>
 
 <div id="user-content-toc">
   <ul>
