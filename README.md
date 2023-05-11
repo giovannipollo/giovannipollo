@@ -23,10 +23,8 @@
 - [Telegram](https://t.me/giovannipollo)
 - [Email](mailto:giovannipollo98@gmail.com)
 
-&nbsp;
-###  💻 &nbsp;Languages and Tools:
 
-&nbsp;
+###  💻 &nbsp;Languages and Tools:
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=A8B9CC)&nbsp;
 ![MAC](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=apple&logoColor=A8B9CC)&nbsp;
