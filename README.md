@@ -1,10 +1,10 @@
 
 <div align="center">
-<h1> Hi there 👋  </h1>
+<h2> Hi there 👋  </h2>
 </div>
 
 <h1 align="center">I am Giovanni Pollo 🐔 </h1>
-<h1 align="center">🎓 &nbsp;Embedded System Engineer, Politecnico di Torino</h1>
+<h2 align="center">🎓 &nbsp;Embedded System Engineer, Politecnico di Torino</h2>
 
 
 
