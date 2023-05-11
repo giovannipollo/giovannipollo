@@ -4,18 +4,12 @@
 </div>
 
 <h1 align="center">I am Giovanni Pollo 🐔 </h1>
+<h3 align="center">🎓 &nbsp;Embedded System Engineer, Politecnico di Torino</h3>
 
-🎓 &nbsp; Embedded System Engineer graduated at Politecnico di Torino
 
-💡 &nbsp; As an open source enthusiast, I thoroughly enjoy exploring new technologies, problem-solving through programming while maintaining a hands-on connection with hardware.
+💡 &nbsp;As an open source enthusiast, I thoroughly enjoy exploring new technologies, problem-solving through programming while maintaining a hands-on connection with hardware.
 
-⚡ Fun fact: 
-- Self-hosted services are my passion and I maintain a small homelab
-- Mac and Linux user
-- Road cyclist 🚲
-- A.C. Milan supporter 🔴⚫
-
-🔭 I’m currently working on neural networks accelerators on FPGA
+🔭 &nbsp;I’m currently working on neural networks accelerators on FPGA
 
 👯 &nbsp;I’m collaborating with my university on *Resilience analysis of FPGA-based Dataflow accelerators*, continuing the work of my thesis
 
@@ -25,6 +19,11 @@
 
 📫 &nbsp; You can reach me at: [LinkedIn](https://www.linkedin.com/in/giovanni-pollo/), [Telegram](https://t.me/giovannipollo), [Email](mailto:giovannipollo98@gmail.com)
 
+⚡ Fun fact: 
+- Self-hosted services are my passion and I maintain a small homelab
+- Mac and Linux user
+- Road cyclist 🚲
+- A.C. Milan supporter 🔴⚫
 
 ###  💻 &nbsp;Languages and Tools:
 
