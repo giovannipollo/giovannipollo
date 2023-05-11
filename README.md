@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🎓 &nbsp; Embedded System Engineer graduated at Politecnico di Torino\
+🎓 &nbsp; Embedded System Engineer graduated at Politecnico di Torino
 
-💡 &nbsp; As an open source enthusiast, I thoroughly enjoy exploring new technologies, problem-solving through programming while maintaining a hands-on connection with hardware.\
+💡 &nbsp; As an open source enthusiast, I thoroughly enjoy exploring new technologies, problem-solving through programming while maintaining a hands-on connection with hardware.
 
 ⚡ Fun fact: 
 - Self-hosted services are my passion and I maintain a small homelab
@@ -10,9 +10,9 @@
 - Road cyclist 🚲
 - A.C. Milan supporter 🔴⚫
 
-🔭 I’m currently working on neural networks accelerators on FPGA\
+🔭 I’m currently working on neural networks accelerators on FPGA
 
-👯 &nbsp;I’m collaborating with my university on *Resilience analysis of FPGA-based Dataflow accelerators*, continuing the work of my thesis\
+👯 &nbsp;I’m collaborating with my university on *Resilience analysis of FPGA-based Dataflow accelerators*, continuing the work of my thesis
 
 📄 &nbsp; [Download my Curriculum Vitae](CV.pdf)
 
