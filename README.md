@@ -7,7 +7,7 @@
 <h2 align="center">🎓 &nbsp;Embedded System Engineer, Politecnico di Torino</h2>
 
 
-## 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;As an open source enthusiast, I thoroughly enjoy exploring new technologies, problem-solving through programming while maintaining a hands-on connection with hardware.
 
@@ -27,7 +27,7 @@
 - Road cyclist 🚲
 - A.C. Milan supporter 🔴⚫
 
-##  💻 &nbsp;Languages and Tools
+###  💻 &nbsp;Languages and Tools
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=A8B9CC)&nbsp;
 ![MAC](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=apple&logoColor=A8B9CC)&nbsp;
