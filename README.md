@@ -30,8 +30,6 @@
 - Road cyclist 🚲
 - A.C. Milan supporter 🔴⚫
 
-###  💻 &nbsp;Languages and Tools
-
 <div id="user-content-toc">
   <ul>
     <summary><h1 style="display: inline-block;">👨🏻‍💻 &nbsp;Languages and Tools</h1></summary>
@@ -52,8 +50,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)&nbsp;
-
-### 📈 &nbsp;GitHub Stats
 
 <div id="user-content-toc">
   <ul>
