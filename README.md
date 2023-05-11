@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+---
+## I am Giovanni Pollo 🐔
+---
 
 🎓 &nbsp; Embedded System Engineer graduated at Politecnico di Torino
 
