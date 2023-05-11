@@ -18,10 +18,7 @@
 
 📚 &nbsp; [Read the abstract of my thesis](thesis-abstract.md)
 
-📫 &nbsp; You can reach me at:
-- [LinkedIn](https://www.linkedin.com/in/giovanni-pollo/)
-- [Telegram](https://t.me/giovannipollo)
-- [Email](mailto:giovannipollo98@gmail.com)
+📫 &nbsp; You can reach me at: [LinkedIn](https://www.linkedin.com/in/giovanni-pollo/), [Telegram](https://t.me/giovannipollo), [Email](mailto:giovannipollo98@gmail.com)
 
 
 ###  💻 &nbsp;Languages and Tools:
