@@ -4,7 +4,8 @@
 </div>
 
 <h1 align="center">I am Giovanni Pollo 🐔 </h1>
-<h3 align="center">🎓 &nbsp;Embedded System Engineer, Politecnico di Torino</h3>
+<h1 align="center">🎓 &nbsp;Embedded System Engineer, Politecnico di Torino</h1>
+
 
 
 💡 &nbsp;As an open source enthusiast, I thoroughly enjoy exploring new technologies, problem-solving through programming while maintaining a hands-on connection with hardware.
