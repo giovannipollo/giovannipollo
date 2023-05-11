@@ -28,7 +28,7 @@
 
 👯 &nbsp;I’m collaborating with my university on *Resilience analysis of FPGA-based Dataflow accelerators*, continuing the work of my thesis
 
-📄 &nbsp; [Download my Curriculum Vitae](CV.pdf)
+📌 &nbsp; [Download my Curriculum Vitae](CV.pdf)
 
 📚 &nbsp; [Read the abstract of my thesis](thesis-abstract.md)
 
