@@ -12,7 +12,7 @@
 
 🔭 &nbsp;I’m currently working on neural networks accelerators on FPGA
 
-👯 &nbsp;I’m collaborating with my university on *Resilience analysis of FPGA-based Dataflow accelerators*, continuing the work of my thesis
+👯 &nbsp;I’m collaborating with my university on **Resilience analysis of FPGA-based Dataflow accelerators**, continuing the work of my thesis
 
 📄 &nbsp; [Download my Curriculum Vitae](CV.pdf)
 
