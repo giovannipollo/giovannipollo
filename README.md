@@ -12,7 +12,7 @@
 
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h1 style="display: inline-block;">Embedded System Engineer, Politecnico di Torino 🎓</h1></summary>
+    <summary><h1 style="display: inline-block;">Embedded System Engineer and Research Fellow @Politecnico di Torino 🎓</h1></summary>
   </ul>
 </div>
 
@@ -24,9 +24,7 @@
 
 💡 &nbsp;As an open source enthusiast, I thoroughly enjoy exploring new technologies, problem-solving through programming while maintaining a hands-on connection with hardware.
 
-🔭 &nbsp;I’m currently working on neural networks accelerators on FPGA
-
-👯 &nbsp;I’m collaborating with my university on *Resilience analysis of FPGA-based Dataflow accelerators*, continuing the work of my thesis
+🔭 &nbsp;I’m currently a Research Fellow @Politecnico di Torino working on Physics Informed Neural Networks and Neural Networks Accelerators on Edge Devices
 
 📌 &nbsp; [Download my Curriculum Vitae](CV.pdf)
 
@@ -34,11 +32,11 @@
 
 📫 &nbsp; You can reach me at: [LinkedIn](https://www.linkedin.com/in/giovanni-pollo/), [Telegram](https://t.me/giovannipollo), [Email](mailto:giovannipollo98@gmail.com)
 
-⚡ Fun fact: 
+⚡️ Fun fact: 
 - Self-hosted services are my passion and I maintain a small homelab
 - Mac and Linux user
 - Road cyclist 🚲
-- A.C. Milan supporter 🔴⚫
+- A.C. Milan supporter 🔴⚫️
 
 <div id="user-content-toc">
   <ul>
