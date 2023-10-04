@@ -66,7 +66,7 @@
 </div>
 <p align="center">
 <a href="https://github.com/giop98/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giop98&show_icons=true&theme=nord"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giop98&layout=compact&langs_count=8&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannipollo&show_icons=true&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovannipollo&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
