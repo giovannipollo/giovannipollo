@@ -12,7 +12,7 @@
 
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h1 style="display: inline-block;">Embedded System Engineer and Research Fellow @Politecnico di Torino 🎓</h1></summary>
+    <summary><h1 style="display: inline-block;">Embedded System Engineer and PhD @DAUIN, Politecnico di Torino 🎓</h1></summary>
   </ul>
 </div>
 
