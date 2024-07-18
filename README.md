@@ -1,6 +1,6 @@
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h1 style="display: inline-block;">Hi there 👋</h1></summary>
+    <summary><h3 style="display: inline-block;">Hi there 👋</h3></summary>
   </ul>
 </div>
 
@@ -12,13 +12,13 @@
 
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h1 style="display: inline-block;">Embedded System Engineer and PhD @DAUIN, Politecnico di Torino 🎓</h1></summary>
+    <summary><h3 style="display: inline-block;">Embedded System Engineer and PhD @DAUIN, Politecnico di Torino 🎓</h3></summary>
   </ul>
 </div>
 
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">👨🏻‍💻 &nbsp;About Me</h1></summary>
+    <summary><h3 style="display: inline-block;">👨🏻‍💻 &nbsp;About Me</h3></summary>
   </ul>
 </div>
 
@@ -40,7 +40,7 @@
 
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">👨🏻‍💻 &nbsp;Languages and Tools</h1></summary>
+    <summary><h3 style="display: inline-block;">👨🏻‍💻 &nbsp;Languages and Tools</h3></summary>
   </ul>
 </div>
 
@@ -61,7 +61,7 @@
 
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">📈 &nbsp;GitHub Stats</h1></summary>
+    <summary><h3 style="display: inline-block;">📈 &nbsp;GitHub Stats</h3></summary>
   </ul>
 </div>
 <p align="center">
