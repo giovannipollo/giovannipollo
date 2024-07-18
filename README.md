@@ -24,7 +24,7 @@
 
 💡 &nbsp;As an open source enthusiast, I thoroughly enjoy exploring new technologies, problem-solving through programming while maintaining a hands-on connection with hardware.
 
-🔭 &nbsp;I’m currently a Research Fellow @Politecnico di Torino working on Physics Informed Neural Networks and Neural Networks Accelerators on Edge Devices
+🔭 &nbsp;I’m currently a PhD Candidate @Politecnico di Torino working on Physics Informed Neural Networks and Neural Networks Accelerators on Edge Devices
 
 📌 &nbsp; [Download my Curriculum Vitae](CV.pdf)
 
