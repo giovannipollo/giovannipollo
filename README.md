@@ -22,9 +22,8 @@
   </ul>
 </div>
 
-💡 &nbsp;As an open source enthusiast, I enjoy exploring new technologies, problem-solving through programming while maintaining a hands-on connection with hardware.
 
-🔭 &nbsp;I’m currently a PhD Candidate @Politecnico di Torino
+🔭 &nbsp; Currently a PhD Candidate @Politecnico di Torino
 
 📌 &nbsp; [Download my Curriculum Vitae](CV.pdf)
 
