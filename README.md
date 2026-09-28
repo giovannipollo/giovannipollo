@@ -1,24 +1,12 @@
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h3 style="display: inline-block;">Hi there 👋</h3></summary>
-  </ul>
-</div>
-
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary><h1 style="display: inline-block;">I am Giovanni Pollo 🐔</h1></summary>
+    <summary><h1 style="display: inline-block;">Giovanni Pollo 🐔</h1></summary>
   </ul>
 </div>
 
 <div id="user-content-toc" align="center">
   <ul>
     <summary><h3 style="display: inline-block;">Embedded System Engineer and PhD @DAUIN, Politecnico di Torino 🎓</h3></summary>
-  </ul>
-</div>
-
-<div id="user-content-toc">
-  <ul>
-    <summary><h3 style="display: inline-block;">👨🏻‍💻 &nbsp;About Me</h3></summary>
   </ul>
 </div>
 
@@ -30,12 +18,6 @@
 📚 &nbsp; [Read the abstract of my thesis](thesis-abstract.md)
 
 📫 &nbsp; You can reach me at: [LinkedIn](https://www.linkedin.com/in/giovanni-pollo/), [Telegram](https://t.me/giovannipollo), [Email](mailto:giovannipollo98@gmail.com)
-
-⚡️ Fun fact: 
-- Self-hosted services are my passion and I maintain a small homelab
-- Mac and Linux user
-- Road cyclist 🚲
-- A.C. Milan supporter 🔴⚫️
 
 <div id="user-content-toc">
   <ul>
@@ -57,15 +39,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)&nbsp;
-
-<div id="user-content-toc">
-  <ul>
-    <summary><h3 style="display: inline-block;">📈 &nbsp;GitHub Stats</h3></summary>
-  </ul>
-</div>
-<p align="center">
-<a href="https://github.com/giop98/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannipollo&show_icons=true&theme=nord"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovannipollo&layout=compact&langs_count=8&theme=nord"/>
-</a>
-</p>
